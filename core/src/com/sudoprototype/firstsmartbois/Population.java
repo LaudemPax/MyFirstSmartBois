@@ -53,7 +53,7 @@ public class Population {
 
     public void draw(SpriteBatch batch){
 
-        //draw driver in pos 1 to (size -1 first)
+        //draw driver in array pos 1 to (size -1) first
         for(int i = 1; i < size; i++){
             drivers[i].draw(batch);
         }
