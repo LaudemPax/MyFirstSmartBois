@@ -1,4 +1,4 @@
-package com.sudoprototype.firstsmartbois;
+package cc.sudocode.firstsmartbois;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.Texture;

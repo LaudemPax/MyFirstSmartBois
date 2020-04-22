@@ -1,4 +1,4 @@
-package com.sudoprototype.firstsmartbois;
+package cc.sudocode.firstsmartbois;
 
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.math.Vector2;

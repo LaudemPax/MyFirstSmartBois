@@ -1,4 +1,4 @@
-package com.sudoprototype.firstsmartbois;
+package cc.sudocode.firstsmartbois;
 
 public class DriverUserData {
 
